@@ -16,6 +16,8 @@ Sou estudante de Ciência da Computação e estou em busca da minha primeira opo
 # Atualmente estudando 📚
 
 - Java
+- Mysql
+- sql
 - Python
 - Desenvolvimento Back-end
 - Boas práticas de programação
